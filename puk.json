@@ -1,0 +1,442 @@
+[
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 16,
+            "minute:": 7,
+            "second": 20
+        },
+        "wind speed": "25"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 16,
+            "minute:": 7,
+            "second": 34
+        },
+        "wind speed": "25"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 16,
+            "minute:": 7,
+            "second": 52
+        },
+        "wind speed": "25"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 16,
+            "minute:": 8,
+            "second": 5
+        },
+        "wind speed": "25"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 16,
+            "minute:": 8,
+            "second": 54
+        },
+        "wind speed": "25"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 16,
+            "minute:": 9,
+            "second": 2
+        },
+        "wind speed": "25"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 16,
+            "minute:": 9,
+            "second": 53
+        },
+        "wind speed": "25"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 16,
+            "minute:": 15,
+            "second": 59
+        },
+        "wind speed": "25"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 16,
+            "minute:": 16,
+            "second": 1
+        },
+        "wind speed": "25"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 16,
+            "minute:": 16,
+            "second": 4
+        },
+        "wind speed": "25"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 16,
+            "minute:": 16,
+            "second": 56
+        },
+        "wind speed": "25"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 16,
+            "minute:": 16,
+            "second": 59
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 11,
+            "second": 17
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 21,
+            "second": 3
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 23,
+            "second": 20
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 26,
+            "second": 51
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 29,
+            "second": 16
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 33,
+            "second": 37
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 36,
+            "second": 18
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 45,
+            "second": 6
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 47,
+            "second": 9
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 48,
+            "second": 17
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 48,
+            "second": 22
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 48,
+            "second": 25
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 54,
+            "second": 11
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 54,
+            "second": 17
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 13,
+            "minute:": 58,
+            "second": 27
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 2,
+            "second": 22
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 11,
+            "second": 22
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 11,
+            "second": 32
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 16,
+            "second": 29
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 16,
+            "second": 36
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 18,
+            "second": 17
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 20,
+            "second": 6
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 27,
+            "second": 1
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 28,
+            "second": 6
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 28,
+            "second": 13
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 32,
+            "second": 41
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 41,
+            "second": 29
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 44,
+            "second": 39
+        },
+        "wind speed": "60"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 46,
+            "second": 38
+        },
+        "wind speed": "57"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 48,
+            "second": 31
+        },
+        "wind speed": "57"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 49,
+            "second": 55
+        },
+        "wind speed": "57"
+    },
+    {
+        "direction of the wind": "0.57",
+        "sensor name": "WMT700",
+        "time": {
+            "hour:": 14,
+            "minute:": 59,
+            "second": 40
+        },
+        "wind speed": "57"
+    }
+]
